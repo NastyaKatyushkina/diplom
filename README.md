@@ -1,4 +1,4 @@
-[GH-Pages](https://github.io/NastyaKatyushkina/diplom) 
+https://github.io/NastyaKatyushkina/diplom/
 
 # Дипломная работа к профессии Frontend-разработчик «Система бронирования ж/д билетов»
 
