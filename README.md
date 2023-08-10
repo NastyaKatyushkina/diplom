@@ -1,4 +1,4 @@
-https://github.io/NastyaKatyushkina/diplom/
+https://nastyakatyushkina.github.io/diplom/
 
 # Дипломная работа к профессии Frontend-разработчик «Система бронирования ж/д билетов»
 
